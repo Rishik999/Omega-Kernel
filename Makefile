@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 0
 SUBLEVEL = 16
-EXTRAVERSION =Alpha-Kernel-By-russelldias
+EXTRAVERSION =Omega-Kernel-By-russelldias
 NAME = Russell Dias
 
 # *DOCUMENTATION*
