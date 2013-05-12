@@ -1,8 +1,8 @@
 VERSION = 3
 PATCHLEVEL = 0
 SUBLEVEL = 16
-EXTRAVERSION =
-NAME = Sneaky Weasel
+EXTRAVERSION =Alpha-Kernel-By-russelldias
+NAME = Russell Dias
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
